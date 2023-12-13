@@ -3,8 +3,8 @@ function shortcut(s1, s2) {
 	if(!s1 || !s2){
 	return ''
 }
-	const shortcut = s1[0] + s2[0];
-	return shortcut
+	const shortct = s1[0] + s2[0];
+	return shortct
 }
 }
 
